@@ -22,9 +22,12 @@
 
 <div style="display: inline_block"><br> </div>
 <div align="center"> 
-  <a href="https://www.instagram.com/o_gabrieldom/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielsildominguess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-domingues-578363225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/o_gabrieldom/" target="_blank"><img align="center" alt="Gab-IG" height="40" width="40" src="https://img.icons8.com/officel/80/000000/instagram-new.png" target="_blank"></a>
+  <a href = "mailto:gabrielsildominguess@gmail.com"><img align="center" alt="Gab-GM" height="40" width="40" src="https://img.icons8.com/officel/80/000000/google-plus.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-domingues-578363225/" target="_blank"><img align="center" alt="Gab-ID" height="40" width="40" src="https://img.icons8.com/officel/80/000000/linkedin.png" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5512996081296&text=Ol%C3%A1" target="_blank"><img align="center" alt="Gab-WS" height="40" width="40" src="https://img.icons8.com/officel/80/000000/whatsapp.png" target="_blank">
+  
+
 </div>
   
 
