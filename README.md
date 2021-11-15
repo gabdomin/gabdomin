@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br> </div>
 <div align="center">
-  <img align="center" alt="Gab-C"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Gab-C"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" target="_blank">
   <img align="center" alt="Gab-AC" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-acrobat--v2.png" target="_blank">
   <img align="center" alt="Gab-AI" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png" target="_blank">
   <img align="center" alt="Gab-ID" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-indesign--v2.png" target="_blank">
